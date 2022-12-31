@@ -1,6 +1,44 @@
-.testBox {
-  color: white;
-  background-color: green;
-  height: 300px;
-  width: 300px;
+.register_background {
+  background-color: #EEEEEF;
+}
+
+.register_title {
+  width: 400px;
+  margin: 0 auto;
+  background-color: aqua;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.register_input {
+  border: 0;
+  border-radius: 15px;
+  outline: none;
+  padding-left: 10px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 20px;
+}
+
+.register_inputID {
+  border: 0;
+  border-radius: 15px;
+  outline: none;
+  padding-left: 10px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.register_idChk {
+  width: 90px;
+  height: 30px;
+  background-color: greenyellow;
+  border: 0px;
+  margin-left: 10px;
+}
+
+.register_warningMSG {
+  color: red;
 }
